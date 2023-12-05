@@ -65,7 +65,7 @@ class ShopPage extends StatelessWidget {
                   
                 },
                 child: Text(
-                  "Buy now"
+                  "Buy Now"
                   ),
               ),
             ],
