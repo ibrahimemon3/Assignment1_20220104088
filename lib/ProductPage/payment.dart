@@ -10,7 +10,7 @@ class Payment extends StatefulWidget {
 }
 class PaymentState extends State<Payment>{
   int _type=1;
-  String dropdown="1";
+  String dropdown="2";
   void _handleRadio(Object? e) => setState((){
      _type = e as int;
 
